@@ -1,0 +1,6 @@
+{
+  "name": "get-device-pixel-ratio",
+  "version": "1.0.0",
+  "main": "getDevicePixelRatio.js",
+  "description": "An easy way to get the device pixel ratio of a screen using JavaScript."
+}
