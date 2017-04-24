@@ -7,7 +7,7 @@ Allows you to get the device pixel ratio using JavaScript.
 
 ## Size and delivery
 
-Currently, `getDevicePixelRatio.js` compresses to around 318 bytes (~0.3 KB), after minify and gzip. To minify, you might try these online tools: [Microsoft Ajax Minifier]:(http://ajaxmin.codeplex.com/), [Uglify]:(http://marijnhaverbeke.nl/uglifyjs), [Yahoo Compressor]:(http://refresh-sf.com/yui/), or [Closure Compiler](http://closure-compiler.appspot.com/home). Serve with gzip compression.
+Currently, `getDevicePixelRatio.js` compresses to around 221 bytes (~0.2 KB), after minify and gzip. To minify, you might try these online tools: [Microsoft Ajax Minifier](http://ajaxmin.codeplex.com/), [Uglify](http://marijnhaverbeke.nl/uglifyjs), [Yahoo Compressor](http://refresh-sf.com/yui/), or [Closure Compiler](http://closure-compiler.appspot.com/home). Serve with gzip compression.
 
 ## Sample
 
